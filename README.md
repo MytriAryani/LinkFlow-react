@@ -13,7 +13,6 @@ Link Flow is a simple, responsive React web app that allows users to enter their
 - 📱 Mobile responsive and clean UI
 - ✅ Tested with **nRF Connect for Mobile** and **HC-05 / ESP32** BLE modules
 
----
 
 
 
